@@ -1,4 +1,4 @@
 ->      /                                                  health.Routes
-GET     /guides/interest-restriction-return-end-to-end-service-guide           controllers.Default.redirect(to = "/guides/interest-restriction-return-end-to-end-service-guide/")
-GET     /guides/interest-restriction-return-end-to-end-service-guide/          controllers.Assets.at(path="/public", file="index.html")
-GET     /guides/interest-restriction-return-end-to-end-service-guide/*file     controllers.Assets.at(path="/public", file)
+GET     /guides/irr-api-end-to-end-service-guide           controllers.Default.redirect(to = "/guides/irr-api-end-to-end-service-guide/")
+GET     /guides/irr-api-end-to-end-service-guide/          controllers.Assets.at(path="/public", file="index.html")
+GET     /guides/irr-api-end-to-end-service-guide/*file     controllers.Assets.at(path="/public", file)
