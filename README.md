@@ -1,4 +1,4 @@
-# Technical Documentation - Vat Service Guide
+# Technical Documentation - Interest Restriction Return (IRR) Service Guide
 
 ## Getting started
 
