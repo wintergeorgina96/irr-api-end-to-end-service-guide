@@ -6,7 +6,7 @@ description: Software developers, designers, product owners or business analysts
 
 # Interest Restriction Return (IRR) end-to-end service guide
 
-Version 0.1 issued 4 March 2020
+Version 0.2 issued 4 March 2020
 ***
 
 This guide explains how you can integrate your software with our APIs to submit your Interest Restriction return. It shows how the APIs fit into various end-to-end user journeys. It is intended to help software developers, designers, product owners or business analysts understand how your software needs to interact with HMRC systems.
@@ -14,7 +14,7 @@ This guide explains how you can integrate your software with our APIs to submit 
 ## Overview
 <!-- Section owner: IRR Programme -->
 
-Interest Restriction Return (IRR) API allows developers to build software which can: 
+Interest Restriction Return (IRR) API allows developers to build software which can:
 
 * appoint or revoke a reporting company (via our [Interest Restriction Return (IRR) API](https://developer.service.hmrc.gov.uk/api-documentation/docs/api/service/interest-restriction-return/))
 * file full and abbreviated Interest Restriction Returns using software (via our [Interest Restriction Return (IRR) API](https://developer.service.hmrc.gov.uk/api-documentation/docs/api/service/interest-restriction-return/))
